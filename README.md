@@ -9,7 +9,7 @@ on:
 permissions:
   contents: read
   security-events: write
-  pull-requests: rea
+  pull-requests: read
 
 jobs:
   secrets-scan:
